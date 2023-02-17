@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **liuw5367/liuw5367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-### Skills
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -25,7 +24,6 @@ Here are some ideas to get you started:
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 </p>
 
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/liuw5367"><img src="https://github-readme-stats.vercel.app/api?username=liuw5367&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="liuw5367's GitHub stats" /></a>
 
